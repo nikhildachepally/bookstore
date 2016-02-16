@@ -1,0 +1,43 @@
+[
+	{
+		"id":1,
+		"name":"Science",
+		"description":"Science and technologyhas been developing very fastly and people need to be upgraded. Here in this category of books we are providing wide range of science books which starts at very resonable prices ",
+		"price": 29.00,
+		"images":"http://cdn.usborne.com/catalogue/covers/eng/width_223px/whats-science-all-about.jpg"
+
+		
+
+	},
+	{
+		"id":2,
+		"name":"History",
+		"description":"It is our minimum responsibility to know about our history and you can get a wide variety of books available here",
+		"price":30.00 ,
+		"images":"http://www.historytoday.com/sites/default/files/historytoday.jpg"
+			
+	},
+	{
+		"id":3,
+		"name":"Comics",
+		"description":"Kids are very interested in reading comics,we at book store provide it with less cost starting at $9.99",
+		"price": 10.00,
+		"images":"http://farm5.static.flickr.com/4051/4544930469_73a6b72c0d_o.png"
+		
+	},
+	{
+		"id":4,
+		"name":"General Knowledge",
+		"description":"starts at $7",
+		"price": 20.00,
+		"images":"http://static.upscportal.com/images/2012/SSC-GK-Free-Guide.jpg"
+	},
+	{
+		"id":5,
+		"name":"Novels",
+		"description":" Novels are very interesting and book store provides wide variety of novels which starts at $10",
+		"price": 5.00,
+		"images":"http://d.gr-assets.com/books/1320490450l/3581.jpg"
+		
+	}
+]
